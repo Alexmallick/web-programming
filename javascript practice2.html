@@ -1,0 +1,33 @@
+<html>
+
+	<head>
+		<title>Basic javascript</title>
+	</head>
+
+	<body>
+
+		<script>
+			
+			var word= prompt("write the word");
+			var n = word.length;
+			var res = word.split("");
+			var text = "";
+			
+			for (i = n; i >= 0; i--) {
+			text += word.charAt(i);
+			}
+			
+			if (word == text)
+			{
+			var result = word.fontcolor("blue");
+			document.write(result);
+			}
+			else
+			{
+			document.write(text);
+			}
+
+		</script>
+
+	</body>
+</html>

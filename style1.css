@@ -1,0 +1,85 @@
+nav.royals{
+	background:black;
+	padding: 5px;
+	overflow:auto;
+	margin:auto;
+}
+#a1{
+	float:right;
+	color:gray;
+	font-family: 'Open Sans Condensed', sans-serif;
+	font-size:large;
+	padding:10px
+}
+
+#a2{
+	float:right;
+	color:gray;
+	font-family: 'Open Sans Condensed', sans-serif;
+	font-size:large;
+	padding:10px
+}
+
+#a3{
+	float:right;
+	color:gray;
+	font-family: 'Open Sans Condensed', sans-serif;
+	font-size:large;
+	padding:10px
+}
+
+a.side{
+	color:gray;
+	font-family: 'Open Sans Condensed', sans-serif;
+	font-size:2em;
+	padding:5px
+}
+
+#a1:hover{
+	color:white;
+}
+
+#a2:hover{
+	color:white;
+}
+
+#a3:hover{
+	color:white;
+}
+
+.logo{
+	padding:40px
+}
+
+.info{
+	color:White;
+	font-family: 'Open Sans Condensed', sans-serif;
+	font-size:1em;
+	padding:5px
+}
+
+#main1{
+	background: #668cff;
+	width: 950px;
+	margin: auto;
+}
+
+#main2{
+	background: #ff3333;
+	width: 950px;
+	margin: auto;
+}
+
+#main3{
+	background: #6666ff;
+	width: 950px;
+	margin: auto;
+}
+
+.footer{
+	color:White;
+	font-family: 'Open Sans Condensed', sans-serif;
+	font-size:1em;
+	padding:5px
+}
+
